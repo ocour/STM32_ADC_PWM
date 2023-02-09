@@ -6,5 +6,5 @@ Uses DMA.
 
 Programmed with STM32CubeIDE using LL drivers.
 
-Board used: STM32F103RB
+Board used: STM32F103RB.
 Potentiometer is connected to PA0, and LED to PA6.
