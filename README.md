@@ -1,6 +1,7 @@
 # STM32_ADC_PWM
 
-Reads values from potentiometer using ADC These values are used to set PWM duty cycle for LED. 
+Reads values from potentiometer using ADC. 
+These values are used to set PWM duty cycle for LED. 
 
 Uses DMA.
 
